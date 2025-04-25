@@ -13,7 +13,7 @@
 
 ## Contents
 
-- [About](#about)
+- [About](#about)~~ 
 - [Curricular Guideline](#curricular-guideline)
 - [How to use this guide](#how-to-use-this-guide)
 - [Community](#community)
@@ -76,10 +76,10 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ## Curriculum
 
-- [Introduction to Data Science](#introduction-to-data-science)
-- [Introduction to Computer Science](#introduction-to-computer-science)
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Databases](#databases)
+- ~~[Introduction to Data Science](#introduction-to-data-science)~~
+- ~~[Introduction to Computer Science](#introduction-to-computer-s cience)~~
+- ~~[Data Structures and Algorithms](#data-structures-and-algorith ms)~~
+- ~~[Databases](#databases)~~                                        
 - [Single Variable Calculus](#single-variable-calculus)
 - [Linear Algebra](#linear-algebra)
 - [Multivariable Calculus](#multivariable-calculus)
